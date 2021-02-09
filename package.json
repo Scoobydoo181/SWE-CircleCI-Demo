@@ -1,0 +1,22 @@
+{
+  "name": "swe-circleci-demo",
+  "version": "1.0.0",
+  "description": "Note: \r Our group is working with a client who has an existing codebase and wants us to develop features on top of it.\r Since we cannot setup CircleCI on their repo, we are making this repo to complete the Repository Setup assignment as instructed by TA Jack Zheng on February 2nd, 2021 in the discussion meeting.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Scoobydoo181/SWE-CircleCI-Demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Scoobydoo181/SWE-CircleCI-Demo/issues"
+  },
+  "homepage": "https://github.com/Scoobydoo181/SWE-CircleCI-Demo#readme",
+  "dependencies": {
+    "jest": "^26.6.3"
+  }
+}
